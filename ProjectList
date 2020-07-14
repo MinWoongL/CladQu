@@ -1,0 +1,22 @@
+[
+  {
+    "idPj": 0,
+    "projectName": "Quotation for Inconel Alloy",
+    "totalPrice": 240.00,
+    "userName": "배루아",
+    "quoteDate": "2020-07-09",
+    "quoteNumber": "QU-CKW19SU-1205",
+    "revision": "Rev.1",
+    "validDate": "2020-08-08"
+  },
+  {
+    "idPj": 1,
+    "projectName": "Quotation for Carlo Inc.",
+    "totalPrice": 3640.00,
+    "userName": "김청인",
+    "quoteDate": "2020-07-09",
+    "quoteNumber": "QU-CKW19SU-0813",
+    "revision": "Rev.3",
+    "validDate": "2020-08-31"
+  }
+]
